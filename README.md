@@ -1,6 +1,7 @@
 # SDLC
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-
+User stories are technically user needs. Just broken down into individual tasks to make that request come to fruition. The role of user stories is great for the organization of a project and is one of the main principles in the Scrum/Agile development lifecycle. It works well in a team setting by allowing the proper allocation of work and helps track overall progress. You take the user need, break it down into workable tasks for the team, and when they're completed you send it to testing.
 # How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
-
+This all depends on the environment I'm working in and the team I am with. For this example, ill assume that I am in an Agile-based team. With the user stories, it makes development a little easier by giving devs and testers a roadmap of what exactly you need. This keeps devs on track and helps testers develop specific tests for individual stories. This sort of team dynamic is what I hope to incorporate into my own team someday. We should all be a smooth, functional, cohesive machine.
 # What does it mean to be a good team member in software development?
+Communication, honesty, and dedication. You have to be able to communicate with each other to have a team that works well together. You must have honesty when taking credit for work/mistakes, and when asking for help. Finally, you need to be dedicated. Being a team member not only means you are responsible for your team but also that you need to be able to self-manage. This is an extremely important trait to have in order to be a great, contributing team member. 
